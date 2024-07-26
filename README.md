@@ -3,15 +3,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=sby-a-izumi&show_icons=true&locale=en&layout=compact)
 
 ## In Progress
-![](https://skillicons.dev/icons?i=python,cs,azul,dotnet,sklearn)
+![](https://skillicons.dev/icons?i=python,cs,azul,dotnet,sklearn,jupyter)
 ## To Do
 ![](https://skillicons.dev/icons?i=postgres)
 ## Past Experience
 ![](https://skillicons.dev/icons?i=c,anaconda,blender,tensorflow)
 ## Dabbled In
-![](https://skillicons.dev/icons?i=aws,bitbucket,cmake,css,html,docker,eclipse,java,processing,linux,idea,powershell,pytorch,raspberrypi,ros,ubuntu)
+![](https://skillicons.dev/icons?i=aws,bitbucket,cmake,css,html,docker,eclipse,java,processing,linux,idea,powershell,pytorch,raspberrypi,ros,ubuntu,opencv)
 ## Interested In
-![](https://skillicons.dev/icons?i=notion,react)
+![](https://skillicons.dev/icons?i=kubernetes,notion,react)
 ## Casual Use
 ![](https://skillicons.dev/icons?i=discord,bots,git,github,md,stackoverflow,visualstudio,vscode,windows)
 
