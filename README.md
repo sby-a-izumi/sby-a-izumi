@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=sby-a-izumi&show_icons=true&locale=en&layout=compact)
-
+-->
 ## In Progress
 ![](https://skillicons.dev/icons?i=python,cs,azul,dotnet,sklearn,jupyter)
 ## To Do
